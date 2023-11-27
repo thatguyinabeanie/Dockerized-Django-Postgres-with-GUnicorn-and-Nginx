@@ -1,4 +1,4 @@
-# Rotom Phone
+# Dockerized-Django-Postgres-with-GUnicorn-and-Nginx
 
 ## Want to use this project?
 
